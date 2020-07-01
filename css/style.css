@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Raleway:ital,wght@0,400;1,600&display=swap');
+
+
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	color: #444444;
+}
+header{
+	position: relative;
+	background-color: #000;
+	width: 100%;
+	top:0;
+}
+
+#slides .carousel-caption {
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	font-weight: 550;
+	margin-top: -50px;
+	margin-left: -80px;
+	padding-bottom: 250px;
+}
+
+#slides h1{
+	font-size: 70px;
+	width: 100%;
+	text-align: left;
+	font-weight: 550;
+}
+
+#slides p{
+	font-family: 'Raleway', sans-serif;
+	font-style: italic;
+	font-size: 20px;
+	padding-top: -100px;
+	
+}
+
+#services{
+	justify-content: center;
+	text-align: justify;
+	font-family: 'Raleway', sans-serif;
+	margin: 100px 50px;
+	}
+
+#services h4{
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	margin: 10px;
+	
+	
+}
+
+#services p{
+	font-size: 14px;
+	width: 80%;
+	align-content: center;
+	text-align: justify;
+	margin: auto;
+	
+}
+
+
+#services i{
+	align-content: center;
+	margin-left: 30px;
+}
+
+#about{
+	text-align: left;
+	font-family: 'Raleway', sans-serif;
+	margin: 80px 50px;
+	font-size: 16px;
+	padding: 50px 0;
+	
+ }
+
+	
+
+#about h2{
+	text-transform: uppercase;
+	font-size: 25px;
+}
+
+#about h3{
+	font-family: 'Raleway', sans-serif;
+	font-style: italic;
+	font-size: 18px;
+	margin: 20px 0;
+	font-weight: 400;
+}
+
+#doctor{
+	margin: 40px 0;
+}
+
+#doctor h2{
+	text-transform: uppercase;
+	font-size: 25px;
+	padding-top: 30px;
+}
+
+#doctor h3{
+	font-family: 'Raleway', sans-serif;
+	font-style: italic;
+	font-size: 18px;
+	margin: 20px 0;
+    color: #444444;
+	font-weight: 400;
+}
+
+#testimonios{
+	background-color: #F9F9F9;
+	padding: 70px;
+}
+
+#testimonios h4{
+	font-family: 'Raleway', sans-serif;
+	font-style: italic;
+	font-size: 14px;
+	width: 80%;
+	margin: 20px 100px;
+    color: #444444;
+	font-weight: 50;
+	
+	
+}
+
+#testimonios h2{
+	font-size: 15px;
+}
+
+footer{
+	background-color:  #222;
+	color:  #BABABA;
+	padding: 20px;
+	
+	
+}
+
+footer i{
+	color: #BABABA;
+	font-size: 25px;
+}
+
+footer p{
+	padding: 15px 0;
+	margin: 0 20px;
+	}
+
+footer img{
+	margin-bottom: 20px;
+	margin: 0 20px;
+}
+
+footer ul li{
+	padding: 5px 0;
+	margin: 0 20px;
+}
+
+.p{
+	font-size: 18px;
+	color: #fff;
+	font-weight: 200;
+	margin-right: 10px;
+}
+
+.azul{
+	color: #00D9D9;
+	font-size: 10px;
+}
+
+.yellow{
+	color: darkgoldenrod;
+	font-size: 14px;
+}
+
+.nombre{
+	font-size: 12px;
+	letter-spacing: 1px;
+	font-weight: 100;
+}
+
+.work{
+	font-size: 12px;
+}
+
+.texto-oscuro{
+	color: #222;
+}
+
+.btn-azul{
+	background-color: #00D9D9;
+	color: #fff;
+	border-radius: 0;
+	font-family: 'Raleway', sans-serif;
+	padding: 15px 25px;
+	font-size: 16px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+.btn-transparent{
+	background-color: transparent;
+	color: #fff;
+	border-radius: 0;
+	border: solid 1px #ffff;
+	font-family: 'Raleway', sans-serif;
+	padding: 15px 25px;
+	font-size: 16px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+.circulo{
+	width: 95px;
+	height: 95px;
+	border-radius: 100%;
+	line-height: 100px;
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	font-size: 40px;
+	color: #fff;
+	background-color: #00D9D9;
+	align-content: center;
+}
+
+.circulo2{
+	width: 95px;
+	height: 95px;
+	border-radius: 100%;
+	line-height: 100px;
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	font-size: 40px;
+	color: #fff;
+	background-color: #222;
+	align-content: center;
+}
+
+
